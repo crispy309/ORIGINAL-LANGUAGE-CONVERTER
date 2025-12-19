@@ -1,0 +1,22 @@
+tiv = {
+    "hello": "M sugh u",
+    "good morning": "M sugh u sha u dedoo",
+    "good afternoon": "M sugh u sha u noon",
+    "good evening": "M sugh u sha u zende",
+    "welcome": "M sugh u sha",
+    "thank you": "Aôndo",
+    "please": "Kwase",
+    "sorry": "Mngu",
+    "goodbye": "Tsen",
+    "yes": "Ee",
+    "no": "Aô",
+    "food": "Ishima",
+    "water": "Mnger",
+    "house": "Ya",
+    "school": "Sukul",
+    "book": "Buku",
+    "friend": "Or",
+    "father": "Ter",
+    "mother": "Iyol",
+    "child": "Wan"
+}
