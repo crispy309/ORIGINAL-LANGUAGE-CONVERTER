@@ -1,0 +1,22 @@
+hausa = {
+    "hello": "Sannu",
+    "good morning": "Ina kwana",
+    "good afternoon": "Ina wuni",
+    "good evening": "Ina yamma",
+    "welcome": "Barka da zuwa",
+    "thank you": "Na gode",
+    "please": "Don Allah",
+    "sorry": "Yi hakuri",
+    "goodbye": "Sai an jima",
+    "yes": "Eh",
+    "no": "A'a",
+    "food": "Abinci",
+    "water": "Ruwa",
+    "house": "Gida",
+    "school": "Makaranta",
+    "book": "Littafi",
+    "friend": "Aboki",
+    "father": "Uba",
+    "mother": "Uwa",
+    "child": "Yaro"
+}
