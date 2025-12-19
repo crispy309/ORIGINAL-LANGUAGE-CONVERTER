@@ -1,0 +1,22 @@
+yoruba = {
+    "water": "omi",
+    "food": "onje",
+    "house": "ile",
+    "man": "okunrin",
+    "woman": "obinrin",
+    "child": "omo",
+    "school": "ile-iwe",
+    "book": "iwe",
+    "sun": "oorun",
+    "moon": "osupa",
+    "dog": "aja",
+    "cat": "ologbo",
+    "car": "oko",
+    "road": "ona",
+    "friend": "ore",
+    "money": "owo",
+    "market": "oja",
+    "tree": "igi",
+    "fire": "ina",
+    "sleep": "sun"
+}
