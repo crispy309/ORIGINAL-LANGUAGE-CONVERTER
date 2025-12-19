@@ -1,0 +1,22 @@
+igbo = {
+    "hello": "Ndewo",
+    "good morning": "Ututu oma",
+    "good afternoon": "Ehihie oma",
+    "good evening": "Mgbede oma",
+    "welcome": "Nnoo",
+    "thank you": "Daalu",
+    "please": "Biko",
+    "sorry": "Ndo",
+    "goodbye": "Ka omesia",
+    "yes": "Ee",
+    "no": "Mba",
+    "food": "Nri",
+    "water": "Mmiri",
+    "house": "Ulo",
+    "school": "Ulo akwukwo",
+    "book": "Akwukwo",
+    "friend": "Enyi",
+    "father": "Nna",
+    "mother": "Nne",
+    "child": "Nwa"
+}
