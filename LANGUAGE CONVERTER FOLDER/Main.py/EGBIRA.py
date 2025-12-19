@@ -1,0 +1,22 @@
+egbira = {
+    "hello": "Kia",
+    "good morning": "Kia ona",
+    "good afternoon": "Kia ehie",
+    "good evening": "Kia okwe",
+    "welcome": "Kia yaa",
+    "thank you": "Oyi",
+    "please": "Oyi kpe",
+    "sorry": "Mba oyi",
+    "goodbye": "Ba che",
+    "yes": "Ee",
+    "no": "Mba",
+    "food": "Uwe",
+    "water": "Ami",
+    "house": "Ivi",
+    "school": "Ivi ikpele",
+    "book": "Ikpele",
+    "friend": "Omi",
+    "father": "Ata",
+    "mother": "Ina",
+    "child": "Omi-ene"
+}
